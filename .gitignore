@@ -12,3 +12,4 @@ r600--
 utils/prepare-builtins
 utils/prepare-builtins.o
 utils/prepare-builtins.o.d
+/amdgcn-mesa-mesa3d/
